@@ -75,6 +75,6 @@ $result = mysqli_query($conn, $sql);
 </html>
 
 <?php
-// Đóng kết nối
+// Đóng kết nốii
 mysqli_close($conn);
 ?>
